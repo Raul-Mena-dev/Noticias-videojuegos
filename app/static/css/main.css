@@ -1,0 +1,51 @@
+
+
+.carousel .carousel-item {
+    height: 600px;
+  }
+  
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+    max-height: 600px;
+  
+}
+
+.bg-color-grey{
+  background-color: #EAEAEA;
+}
+
+.img-noticia{
+  width: 150px;
+  height: 150px;
+}
+
+li{
+  list-style: none;
+}
+
+.ad{
+
+  width:300px;
+  height: 600px;
+
+}
+
+
+.error{
+  border: 2px solid red !important;
+  border-radius: 4px;
+}
+
+.ocultar{
+  visibility: hidden;
+}
+
+
+
+
+/*Media Queries*/
+
